@@ -10,6 +10,8 @@ This project was created using node.js, express, dotenv, mysql, and sequelize to
 
 ## Installation
 
+https://drive.google.com/file/d/1RPtow9Jv0QFH267W8Do7rMYCPqyHZan2/view
+
 ## Usage
 
 In order to use this app, you must first install node.js and mysql. After cloning the repository to your system, open an integrated terminal and run "npm install". After installing the dependencies login to mysql by running the command "mysql -u root -p" and enter your password credentials when prompted. Once you have successfully logged in, run the command "SOURCE db/schema.sql" to establish the database. Close out of mysql, and run "node seeds/index.js" in a new terminal. The final step is to correctly set up your .env file with your mysql username and password. After these steps are completed successfully, you can use insomnia to navigate the following links.
